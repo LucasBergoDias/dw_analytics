@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: hubspot
+    database: analytics-459318  
+    schema: hubspot_source  
+    tables:
+      - name: customer
